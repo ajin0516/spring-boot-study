@@ -21,3 +21,11 @@
 4️⃣ 일주일 단위로 학습 범위를 정하고 자유롭게 자신의 브랜칭에 Commit 및 Push
 
 5️⃣ 매주 월요일마다 Merge
+
+
+
+### ✅ Pull Request 규칙
+
+- PR 제목 : 이름 / 주차 / 학습 페이지
+- `Soyeong Lee / 11월 1주차 / p.2 ~ p.35`
+- comment는 자유롭게
